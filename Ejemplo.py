@@ -5,3 +5,5 @@ print(x)
 z= x / 4
 
 print(z)
+
+we = "hjfwejnbd"
