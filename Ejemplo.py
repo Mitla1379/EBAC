@@ -7,3 +7,6 @@ z= x / 4 * w
 
 print(z)
 
+o = "Hola"
+
+
