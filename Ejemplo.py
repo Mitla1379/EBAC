@@ -12,12 +12,11 @@ we = "hjfwejnbd"
 =======
 o = "Hola"
 
-
->>>>>>> 4a8b5ac1ac94460033d7e750428f7cf8cd5e984b
-
-
-
 #Agregamos un ejercicio
 a = 21/423
 b = a**2
 print(b)
+
+#Complicamos la operacion
+c = b + 101 * (a//3)
+print(c)
